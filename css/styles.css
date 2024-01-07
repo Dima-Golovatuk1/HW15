@@ -1,0 +1,10 @@
+.holder {
+    display: flex;
+    
+}
+
+
+.item {
+    background-color: red;
+    padding: 50px;
+}
